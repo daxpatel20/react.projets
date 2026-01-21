@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Sliper-logo.css";
+import "./sliper-logo.css";
 
 const SliperLogo = () => {
     return (
@@ -23,3 +23,4 @@ const SliperLogo = () => {
 
 
 export default SliperLogo
+
