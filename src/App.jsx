@@ -19,7 +19,7 @@ function App() {
       <TopBar />
       <Navbar />
       <Home />
-      <Sliperlogo />
+      <SliperLogo />
       <Products />
       <Headphones />
       <Gaminghed />
