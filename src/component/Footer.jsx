@@ -68,11 +68,11 @@ const Footer = () => {
 
                 <div className="payments">
 
-                    <img src="./public//images/payment.png" alt="" />
-                    <img src="./public//images/payment2.png" alt="" />
-                    <img src="./public//images/payment3.png" alt="" />
-                    <img src="./public//images/payment4.png" alt="" />
-                    <img src="./public//images/payment5.png" alt="" />
+                    <img src="//images/payment.png" alt="" />
+                    <img src="//images/payment2.png" alt="" />
+                    <img src="//images/payment3.png" alt="" />
+                    <img src="//images/payment4.png" alt="" />
+                    <img src="//images/payment5.png" alt="" />
                 </div>
             </div>
         </footer>

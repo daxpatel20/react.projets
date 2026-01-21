@@ -6,22 +6,22 @@ const Products = () => {
         {
             title: "Earphones",
             qute: "8",
-            img: "./public/images/category-earphones-1.png"
+            img: "/images/category-earphones-1.png"
         },
         {
             title: "Headphones",
             qute: "10",
-            img: "./public/images/category-headphones-2.png"
+            img: "/images/category-headphones-2.png"
         },
         {
             title: "Microphones",
             qute: "8",
-            img: "./public/images/category-microphone-3.png"
+            img: "/images/category-microphone-3.png"
         },
         {
             title: "Smartwatches",
             qute: "7",
-            img: "./public/images/category-speakers-4.png"
+            img: "/images/category-speakers-4.png"
         },
     ]
     return (

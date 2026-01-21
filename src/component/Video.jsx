@@ -4,7 +4,7 @@ const Video = () => {
   return (
     <div className="soud">
       <video autoPlay muted loop playsInline>
-        <source src="./public/videos/video.mp4" type="" />
+        <source src="/videos/video.mp4" type="" />
         Your browser does not support the video tag.
       </video>
 
