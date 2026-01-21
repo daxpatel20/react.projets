@@ -9,9 +9,9 @@ import Headphones from './component/Headphones';
 import Home from './component/Home';
 import Navbar from './component/Navbar';
 import Products from './component/Produts';
-import Sliperlogo from './component/sliper-logo';
+import Sliperlogo from './component/SliperLogo';
 import TopBar from './component/Topbar';
-import Video from './component/video';
+import Video from './component/Video';
 
 function App() {
   return (
