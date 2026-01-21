@@ -9,7 +9,7 @@ import Headphones from './component/Headphones';
 import Home from './component/Home';
 import Navbar from './component/Navbar';
 import Products from './component/Produts';
-import Sliperlogo from './component/SliperLogo';
+import CompanyLogo from './component/CompanyLogo';
 import TopBar from './component/Topbar';
 import Video from './component/Video';
 
@@ -19,7 +19,7 @@ function App() {
       <TopBar />
       <Navbar />
       <Home />
-      <SliperLogo />
+      <CompanyLogo />
       <Products />
       <Headphones />
       <Gaminghed />
