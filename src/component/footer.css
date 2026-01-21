@@ -1,0 +1,113 @@
+.footer {
+  background:#000000;
+  color: #cbd5e1;
+  padding: 60px 80px 30px;
+  font-family: Arial, sans-serif;
+}
+
+.footer-top {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 50px;
+  margin-bottom: 40px;
+}
+
+.footer-col h4 {
+  color: #ffffff;
+  margin-bottom: 16px;
+  font-size: 16px;
+}
+
+.logo {
+  color: #ffffff;
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+
+.footer-col p {
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.footer-col ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-col ul li {
+  font-size: 14px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.footer-col ul li:hover {
+  color: #ffffff;
+}
+
+.signup-text {
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.email-box {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.email-box input {
+  flex: 1;
+  padding: 12px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  background: #2a2a2a;
+  color: #ffffff;
+}
+
+.email-box button {
+  padding: 12px 18px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  background: #000000;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.terms {
+  font-size: 12px;
+  color: #94a3b8;
+}
+
+.terms span {
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.footer-bottom {
+  border-top: 1px solid #1f2933;
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-bottom p {
+  font-size: 13px;
+}
+
+.payments {
+  display: flex;
+  gap: 12px;
+}
+
+.payments img {
+  height: 28px;
+  background: #ffffff;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+

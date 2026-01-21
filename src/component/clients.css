@@ -1,0 +1,36 @@
+.clients{
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.clients-h2 {
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: #221f1f;
+  margin-bottom: 40px;
+  font-size: 15px;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: #ffffff;
+  padding: 25px;
+  width: 280px;
+  border-radius: 12px;
+  text-align: left;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.card p {
+  color :black;
+}
+

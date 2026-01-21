@@ -1,0 +1,65 @@
+
+
+.audio {
+  height: 520px;
+  background-image: url("/images/uperthi.png");
+  background-repeat: no-repeat;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  padding: 60px;
+  color: #fff;
+}
+
+
+
+
+.tag {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.hero-banner h1 {
+  font-size: 48px;
+  line-height: 1.2;
+  margin: 20px 0;
+}
+
+.hero-banner p {
+  font-size: 16px;
+  opacity: 0.8;
+  margin-bottom: 30px;
+}
+
+
+.hero-banner button {
+  padding: 12px 26px;
+  border: none;
+  border-radius: 30px;
+  font-weight: 600;
+  cursor: pointer;
+  background: white;
+  color: black;
+}
+
+.hero-banner button:hover {
+  background: black;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .hero-banner {
+    background-position: center;
+    background-size: cover;
+    padding: 40px 20px;
+    text-align: center;
+  }
+
+  .hero-content {
+    max-width: 100%;
+  }
+
+  .hero-banner h1 {
+    font-size: 34px;
+  }
+}
