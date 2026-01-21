@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Sliper-logo.css";
 
-const Sliperlogo = () => {
+const SliperLogo = () => {
     return (
         <div className="dax">
             <marquee behavior="scroll" direction="right" scrollamount={10}>
@@ -21,4 +21,5 @@ const Sliperlogo = () => {
     )
 }
 
-export default Sliperlogo
+
+export default SliperLogo
