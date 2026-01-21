@@ -2,7 +2,7 @@ import './app.css';
 import Card from './component/Card';
 import Clients from './component/Clients';
 import Customers from './component/Customers';
-import Footer from './component/footer';
+import Footer from './component/Footer';
 import From from './component/From';
 import Gaminghed from './component/Gaminghed';
 import Headphones from './component/Headphones';
